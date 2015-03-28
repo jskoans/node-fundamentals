@@ -1,0 +1,23 @@
+{
+  "name": "node-fundamentals",
+  "version": "1.0.0",
+  "description": "Simple NodeJS fundamentals",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.54.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jskoans/node-fundamentals.git"
+  },
+  "author": "Calvin Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jskoans/node-fundamentals/issues"
+  },
+  "homepage": "https://github.com/jskoans/node-fundamentals"
+}

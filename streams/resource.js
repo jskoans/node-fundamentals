@@ -1,5 +1,6 @@
 'use strict';
 
+// this is the EventEmitter instantiation approach
 var EventEmitter = require('events').EventEmitter;
 
 var getResource = function(c) {
